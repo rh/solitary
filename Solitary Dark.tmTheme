@@ -136,6 +136,28 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>JSON Strings</string>
+            <key>scope</key>
+            <string>meta.structure.dictionary.json string.quoted.double.json</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#81A2BE</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON Brackets & Punctuation</string>
+            <key>scope</key>
+            <string>punctuation.definition.dictionary.begin.json, punctuation.definition.dictionary.end.json, punctuation.definition.array.begin.json, punctuation.definition.array.end.json, punctuation.separator.dictionary.key-value.json, punctuation.separator.dictionary.pair.json</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#969896</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Changed</string>
             <key>scope</key>
             <string>markup.changed</string>
