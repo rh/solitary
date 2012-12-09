@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>name</key>
+    <string>Solitary Dark</string>
+    <key>author</key>
+    <string>Richard Hubers</string>
+    <key>settings</key>
+    <array>
+        <dict>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#000000</string>
+                <key>caret</key>
+                <string>#FFFFFF</string>
+                <key>foreground</key>
+                <string>#EAEAEA</string>
+                <key>gutterForeground</key>
+                <string>#444444</string>
+                <key>invisibles</key>
+                <string>#E0E0E0</string>
+                <key>lineHighlight</key>
+                <string>#333333</string>
+                <key>selection</key>
+                <string>#B5D5FF</string>
+                <key>selectionBorder</key>
+                <string>#B5D5FF</string>
+                <key>inactiveSelection</key>
+                <string>#D4D4D4</string>
+                <key>findHighlight</key>
+                <string>#F4DE88</string>
+                <key>findHighlightForeground</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Text</string>
+            <key>scope</key>
+            <string>text.plain</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#EEEEEE</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Comments</string>
+            <key>scope</key>
+            <string>comment</string>
+            <key>settings</key>
+            <dict><!-- comment -->
+                <key>foreground</key>
+                <string>#666666</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Strings</string>
+            <key>scope</key>
+            <string>constant.character, string, meta.verbatim, meta.tag string.quoted, meta.tag string.quoted constant.character.entity</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#B9CA4A</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Keywords, classes & functions</string>
+            <key>scope</key>
+            <string>keyword, storage, entity.name.class, entity.name.type.class, entity.name.function</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#7AA6DA</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Tags</string>
+            <key>scope</key>
+            <string>entity.name.tag, punctuation.definition.tag, meta.tag.sgml.doctype, constant.character.entity, entity.name.tag.doctype.html, meta.tag.sgml.html, string.quoted.double.doctype.identifiers-and-DTDs.html</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#7AA6DA</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Attributes</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#7AA6DA</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS Selectors</string>
+            <key>scope</key>
+            <string>meta.selector, meta.selector entity, meta.selector entity punctuation, entity.name.tag.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#7AA6DA</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS Property Names</string>
+            <key>scope</key>
+            <string>meta.property-name, support.type.property-name</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D54E53</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>CSS Property Values</string>
+            <key>scope</key>
+            <string>meta.property-value constant.numeric, meta.property-value constant, meta.property-value keyword</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#EAEAEA</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Changed</string>
+            <key>scope</key>
+            <string>markup.changed</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#000000</string>
+                <key>foreground</key>
+                <string>#E7C547</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Deleted</string>
+            <key>scope</key>
+            <string>markup.deleted</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D54E53</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Inserted</string>
+            <key>scope</key>
+            <string>markup.inserted</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#B9CA4A</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Meta Diff</string>
+            <key>scope</key>
+            <string>meta.diff</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#7AA6DA</string>
+            </dict>
+        </dict>
+    </array>
+    <key>uuid</key>
+    <string>765C8A0E-0EDD-4978-A9CC-E1600CE96283</string>
+</dict>
+</plist>
