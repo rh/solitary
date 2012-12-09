@@ -70,7 +70,7 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>Keywords, classes & functions</string>
+            <string>Keywords, Classes & Functions</string>
             <key>scope</key>
             <string>keyword, storage, entity.name.class, entity.name.type.class, entity.name.function</string>
             <key>settings</key>
@@ -132,6 +132,28 @@
             <dict>
                 <key>foreground</key>
                 <string>#000000</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON Strings</string>
+            <key>scope</key>
+            <string>meta.structure.dictionary.json string.quoted.double.json</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#4F9FCF</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>JSON Brackets & Punctuation</string>
+            <key>scope</key>
+            <string>punctuation.definition.dictionary.begin.json, punctuation.definition.dictionary.end.json, punctuation.definition.array.begin.json, punctuation.definition.array.end.json, punctuation.separator.dictionary.key-value.json, punctuation.separator.dictionary.pair.json</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BBBBBB</string>
             </dict>
         </dict>
         <dict>
