@@ -2,29 +2,29 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>name</key>
-	<string>Solitary Light</string>
-	<key>author</key>
-	<string>Richard Hubers</string>
-	<key>settings</key>
-	<array>
-		<dict>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#FFFFFF</string>
-				<key>caret</key>
-				<string>#000000</string>
-				<key>foreground</key>
-				<string>#000000</string>
-				<key>gutterForeground</key>
-				<string>#EEEEEE</string>
+    <key>name</key>
+    <string>Solitary Light</string>
+    <key>author</key>
+    <string>Richard Hubers</string>
+    <key>settings</key>
+    <array>
+        <dict>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#FFFFFF</string>
+                <key>caret</key>
+                <string>#000000</string>
+                <key>foreground</key>
+                <string>#000000</string>
+                <key>gutterForeground</key>
+                <string>#EEEEEE</string>
                 <key>invisibles</key>
                 <string>#E0E0E0</string>
                 <key>lineHighlight</key>
                 <string>#F8F8F8</string>
-				<key>selection</key>
-				<string>#B5D5FF</string>
+                <key>selection</key>
+                <string>#B5D5FF</string>
                 <key>selectionBorder</key>
                 <string>#B5D5FF</string>
                 <key>inactiveSelection</key>
@@ -33,8 +33,8 @@
                 <string>#F4DE88</string>
                 <key>findHighlightForeground</key>
                 <string>#000000</string>
-			</dict>
-		</dict>
+            </dict>
+        </dict>
         <dict>
             <key>name</key>
             <string>Text</string>
@@ -46,28 +46,28 @@
                 <string>#444444</string>
             </dict>
         </dict>
-		<dict>
-			<key>name</key>
-			<string>Comments</string>
-			<key>scope</key>
-			<string>comment</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#DDDDDD</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Strings</string>
-			<key>scope</key>
-			<string>constant.character, string, meta.verbatim, meta.tag string.quoted, meta.tag string.quoted constant.character.entity</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#859900</string>
-			</dict>
-		</dict>
+        <dict>
+            <key>name</key>
+            <string>Comments</string>
+            <key>scope</key>
+            <string>comment</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DDDDDD</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Strings</string>
+            <key>scope</key>
+            <string>constant.character, string, meta.verbatim, meta.tag string.quoted, meta.tag string.quoted constant.character.entity</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#859900</string>
+            </dict>
+        </dict>
         <dict>
             <key>name</key>
             <string>Keywords, classes & functions</string>
@@ -186,8 +186,8 @@
                 <string>#434343</string>
             </dict>
         </dict>
-	</array>
-	<key>uuid</key>
-	<string>765C8A0E-0EDD-4978-A9CC-E1600CE96283</string>
+    </array>
+    <key>uuid</key>
+    <string>765C8A0E-0EDD-4978-A9CC-E1600CE96283</string>
 </dict>
 </plist>
