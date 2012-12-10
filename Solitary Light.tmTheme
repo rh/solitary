@@ -18,7 +18,7 @@
                 <key>foreground</key>
                 <string>#000000</string>
                 <key>gutterForeground</key>
-                <string>#EEEEEE</string>
+                <string>#D6D6D6</string>
                 <key>invisibles</key>
                 <string>#E0E0E0</string>
                 <key>lineHighlight</key>
@@ -54,7 +54,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#DDDDDD</string>
+                <string>#D6D6D6</string>
             </dict>
         </dict>
         <dict>
@@ -65,7 +65,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#859900</string>
+                <string>#718c00</string>
             </dict>
         </dict>
         <dict>
