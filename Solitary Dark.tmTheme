@@ -27,8 +27,6 @@
                 <string>#373B41</string>
                 <key>selectionBorder</key>
                 <string>#373B41</string>
-                <key>inactiveSelection</key>
-                <string>#D4D4D4</string>
                 <key>findHighlight</key>
                 <string>#F4DE88</string>
                 <key>findHighlightForeground</key>
